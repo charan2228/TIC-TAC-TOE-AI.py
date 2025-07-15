@@ -1,4 +1,4 @@
-This repository contains various Python projects that demonstrate different applications, including a rule-based chatbot, image captioning using deep learning, and an AI-powered Tic-Tac-Toe game.
+This repository contains various Python projects that demonstrate different applications, including a rule-based chatbot, image captioning using deep learning, and an AI-powered Tic-Tac-Toe gam**e.
 
 Projects:
 CHATBOT WITH RULE-BASED RESPONSES
